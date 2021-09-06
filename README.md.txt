@@ -3,4 +3,4 @@
 Aquí vamos a realizar pruebas.
 
 
-Vamos a crear un proyecto de calculadora
+Vamos a crear un proyecto nuevo
