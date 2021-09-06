@@ -1,0 +1,7 @@
+#comandos
+
+git 	init
+	status
+	add
+	commit
+	log
